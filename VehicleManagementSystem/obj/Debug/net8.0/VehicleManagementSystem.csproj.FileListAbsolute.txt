@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.exe
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.deps.json
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.runtimeconfig.json
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.dll
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.pdb
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.sourcelink.json
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.dll
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\refint\VehicleManagementSystem.dll
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.pdb
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.genruntimeconfig.cache
+C:\Users\Asus\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net8.0\ref\VehicleManagementSystem.dll
