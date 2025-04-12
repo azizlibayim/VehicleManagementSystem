@@ -13,6 +13,10 @@ namespace VehicleManagementSystem
         {
             HasSidecar = hasSidecar;
         }
+        public override string StartEngine()
+        {
+            return "Motorcycle engine started.";
+        }
         public override void DisplayInfo()
         {
             base.DisplayInfo();
